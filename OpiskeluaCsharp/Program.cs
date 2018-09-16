@@ -13,7 +13,7 @@ namespace OpiskeluaCsharp
             int yksi = 1;
             int kaksi = 2;
             int kolme = 3;
-
+            //test
             Console.WriteLine("Anna luku 1-3");
             int numero = int.Parse(Console.ReadLine());
 
