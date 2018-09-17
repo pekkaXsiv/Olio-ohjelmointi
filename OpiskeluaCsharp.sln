@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpiskeluaCsharp", "Opiskelu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava4", "Tehtava4\Tehtava4.csproj", "{0E73ABEC-36DD-4A64-ADC9-53AEB8A14C64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t7", "t7\t7.csproj", "{D5F4D914-2245-432F-8E01-2DC5C192EF03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t0", "t0\t0.csproj", "{4A91E18B-E6CA-4FCC-B334-1FFA24974220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{0E73ABEC-36DD-4A64-ADC9-53AEB8A14C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E73ABEC-36DD-4A64-ADC9-53AEB8A14C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E73ABEC-36DD-4A64-ADC9-53AEB8A14C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F4D914-2245-432F-8E01-2DC5C192EF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F4D914-2245-432F-8E01-2DC5C192EF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F4D914-2245-432F-8E01-2DC5C192EF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F4D914-2245-432F-8E01-2DC5C192EF03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A91E18B-E6CA-4FCC-B334-1FFA24974220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A91E18B-E6CA-4FCC-B334-1FFA24974220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A91E18B-E6CA-4FCC-B334-1FFA24974220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A91E18B-E6CA-4FCC-B334-1FFA24974220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
